@@ -1,4 +1,3 @@
 # Demo git
 
-Yoni 
-Tsur
+Yoni Tsur
